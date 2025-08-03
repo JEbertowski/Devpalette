@@ -44,5 +44,7 @@ npm install
 # 3. Start the development server
 npm run dev
 
+📄 License
+This project is licensed under the MIT License.
 
 Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)
