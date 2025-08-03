@@ -29,6 +29,11 @@ DevPalette is a drag-and-drop **Tailwind CSS UI builder** built with **React**, 
 - **Vite** — Lightning-fast bundler
 - **Vercel** — Deployment platform
 
+📄 License
+This project is licensed under the MIT License.
+
+**Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)**
+
 ---
 
 ## 🚀 Run Locally
@@ -43,8 +48,3 @@ npm install
 
 # 3. Start the development server
 npm run dev
-
-📄 License
-This project is licensed under the MIT License.
-
-Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)
