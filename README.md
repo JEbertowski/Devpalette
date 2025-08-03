@@ -31,15 +31,6 @@ DevPalette is a drag-and-drop **Tailwind CSS UI builder** built with **React**, 
 
 ---
 
-## 📸 Screenshots
-
-> Coming soon — or add one here with:
-> `![DevPalette Screenshot](./screenshot.png)`
->
-> Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)
-
----
-
 ## 🚀 Run Locally
 
 ```bash
@@ -52,3 +43,6 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
+
+Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)
