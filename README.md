@@ -1,12 +1,54 @@
-# React + Vite
+# DevPalette 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevPalette is a drag-and-drop **Tailwind CSS UI builder** built with **React**, **Zustand**, and **Framer Motion**. Designed to showcase modern frontend skills, it allows users to easily assemble and customize UI components visually, then export them for use in projects.
 
-Currently, two official plugins are available:
+> 🖥️ Live Demo: [https://devpalette-five.vercel.app](https://devpalette-five.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧱 **7 Drag-and-Drop Components**: Button, Card, Navbar, Image, Heading, Input, List
+- 🎨 **Theme Switcher**: Toggle between light and dark mode
+- 🧩 **Full Canvas Editing**: Add, select, reposition, and remove components
+- 🧠 **Global State with Zustand**: Efficient, minimal state management
+- 🎬 **Smooth Animations**: Framer Motion brings components to life
+- 💾 **Export Code**: View and copy clean HTML/JSX with Tailwind classes
+- 💡 **Live Preview**: See layout updates in real-time
+- 🛸 **Deployed on Vercel**: Fast, secure hosting
+
+---
+
+## 🧰 Built With
+
+- **React** — Frontend library
+- **Tailwind CSS v3.4** — Utility-first styling
+- **Zustand** — Lightweight global state management
+- **Framer Motion** — Animations and transitions
+- **React-DnD** — Drag-and-drop library
+- **Vite** — Lightning-fast bundler
+- **Vercel** — Deployment platform
+
+---
+
+## 📸 Screenshots
+
+> Coming soon — or add one here with:
+> `![DevPalette Screenshot](./screenshot.png)`
+>
+> Created with ❤️ by Justin Ebertowski (https://github.com/JEbertowski)
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/JEbertowski/devpalette.git
+cd devpalette
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev
