@@ -19,6 +19,11 @@ DevPalette is a drag-and-drop **Tailwind CSS UI builder** built with **React**, 
 
 ---
 
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/e11ac0d0-3033-49a4-8886-2918b180cae4" />
+
+---
+
+
 ## 🧰 Built With
 
 - **React** — Frontend library
