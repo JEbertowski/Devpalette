@@ -9,7 +9,6 @@ DevPalette is a drag-and-drop **Tailwind CSS UI builder** built with **React**, 
 ## 🛠 Features
 
 - 🧱 **7 Drag-and-Drop Components**: Button, Card, Navbar, Image, Heading, Input, List
-- 🎨 **Theme Switcher**: Toggle between light and dark mode
 - 🧩 **Full Canvas Editing**: Add, select, reposition, and remove components
 - 🧠 **Global State with Zustand**: Efficient, minimal state management
 - 🎬 **Smooth Animations**: Framer Motion brings components to life
